@@ -3,7 +3,6 @@
 Nasheed Player is a modern, sleek music player designed specifically for playing nasheeds. It features a Spotify-like UI with a dark/light mode toggle, search functionality, and a library view.
 
 Live Preview:
-    ```sh
     https://gellahi.github.io/Nasheeds_Player/
 
 
