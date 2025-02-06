@@ -25,7 +25,7 @@ Nasheed Player is a modern, sleek music player designed specifically for playing
    ```sh
    git clone https://github.com/yourusername/nasheed-player.git
 
-#### Open index.html in your browser to start the player.
+2. Open index.html in your browser to start the player.
 ## Contributing
     Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
